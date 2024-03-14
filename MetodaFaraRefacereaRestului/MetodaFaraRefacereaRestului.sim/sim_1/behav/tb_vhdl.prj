@@ -1,0 +1,10 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  "../../../MetodaFaraRefacereaRestului.srcs/sources_1/new/UC.vhd"
+vhdl xil_defaultlib  "../../../MetodaFaraRefacereaRestului.srcs/sources_1/new/FDN.vhd"
+vhdl xil_defaultlib  "../../../MetodaFaraRefacereaRestului.srcs/sources_1/new/ADDN.vhd"
+vhdl xil_defaultlib  "../../../MetodaFaraRefacereaRestului.srcs/sources_1/new/SLRN.vhd"
+vhdl xil_defaultlib  "../../../MetodaFaraRefacereaRestului.srcs/sources_1/new/Impartitor.vhd"
+vhdl xil_defaultlib  "../../../MetodaFaraRefacereaRestului.srcs/sim_1/new/tb.vhd"
+
+# Do not sort compile order
+nosort

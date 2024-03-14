@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1756540 on Mon Jan 23 19:11:23 MST 2017
+# IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
+# Start of session at: Mon Jan 08 11:17:37 2024
+# Process ID: 3976
+# Current directory: C:/SSC/MetodaRefaceriiRestului/Proiect.runs/synth_1
+# Command line: vivado.exe -log implementare_placa.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source implementare_placa.tcl
+# Log file: C:/SSC/MetodaRefaceriiRestului/Proiect.runs/synth_1/implementare_placa.vds
+# Journal file: C:/SSC/MetodaRefaceriiRestului/Proiect.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source implementare_placa.tcl -notrace

@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1756540 on Mon Jan 23 19:11:23 MST 2017
+# IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
+# Start of session at: Thu Dec 14 17:20:08 2023
+# Process ID: 7904
+# Current directory: C:/SSC/Proiect1/Proiect.runs/impl_1
+# Command line: vivado.exe -log implementare_placa.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source implementare_placa.tcl -notrace
+# Log file: C:/SSC/Proiect1/Proiect.runs/impl_1/implementare_placa.vdi
+# Journal file: C:/SSC/Proiect1/Proiect.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source implementare_placa.tcl -notrace

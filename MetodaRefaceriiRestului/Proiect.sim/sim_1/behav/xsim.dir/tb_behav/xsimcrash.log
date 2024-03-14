@@ -1,0 +1,42 @@
+Unable to capture context for thread 15384 in process 20700, can not generate back trace
+Unable to capture context for thread 17724 in process 20700, can not generate back trace
+Unable to capture context for thread 20452 in process 20700, can not generate back trace
+Unable to capture context for thread 17040 in process 20700, can not generate back trace
+Unable to capture context for thread 4564 in process 20700, can not generate back trace
+Exception at PC 0x00007FF8CBEBBB93
+Printing stacktrace...
+
+Unable to capture context for thread 20452 in process 20700, can not generate back trace
+Exception at PC 0x00007FF9287DCF19
+Exception at PC 0x00007FF9287DCF19
+Exception at PC 0x00007FF9287DCF19
+Exception at PC 0x00007FF9287DCF19
+Exception at PC 0x00007FF9287DCF19
+Exception at PC 0x00007FF9287DCF19
+[0]  [0x00007FF8CBEBBB93]
+[1]  [0x00007FF8CBEBBB93]
+[2]  [0x00007FF8CBEBB4A1]
+[3]  [0x00007FF8CBEBB459]
+[4]  [0x00007FF8CBEA19FE]
+[5]  [0x00007FF8CBEA0ED1]
+[6]  [0x00007FF8CBEA0D76]
+[7]  [0x00007FF8CBE479F6]
+[8]  [0x00007FF8CBE37AFB]
+[9]  [0x00007FF8CBF5E90A]
+[10]  [0x00007FF8CBF79F87]
+[11]  [0x00007FF8CBF7A05F]
+[12] (BaseThreadInitThunk+0x14) [0x00007FF929587344]
+[13] (RtlUserThreadStart+0x21) [0x00007FF92AAA26B1]
+Done
+Exception at PC 0x00007FF9287DCF19
+Exception at PC 0x00007FF9287DCF19
+Exception at PC 0x00007FF9287DCF19
+Exception at PC 0x00007FF9287DCF19
+Exception at PC 0x00007FF9287DCF19
+Exception at PC 0x00007FF9287DCF19
+Exception at PC 0x00007FF9287DCF19
+Exception at PC 0x00007FF9287DCF19
+Exception at PC 0x00007FF9287DCF19
+Exception at PC 0x00007FF9287DCF19
+Exception at PC 0x00007FF9287DCF19
+Exception at PC 0x00007FF9287DCF19
